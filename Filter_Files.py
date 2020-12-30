@@ -20,7 +20,7 @@ def	Filter():
 	global path
 	
 	audio_extensions=('mp3','3gp','aa','aac','aax','act','aiff','amr','ape','au','awb',
-	'dct','dss','dvf','flac','gsm','iklax','ivs','m4a','m4b','m4p','mmf','mp3',
+	'dct','dss','dvf','flac','gsm','iklax','ivs','m4a','m4b','m4p','mmf',
 	'mpc','msv','nmf','nsf','ogg','oga','mogg','opus','ra','rm','raw','sln',
 	'tta','voc','vox','wav','wma','wv','8svx')
 	
@@ -29,25 +29,25 @@ def	Filter():
 		'mpg','mp2','mpeg','mpe','mpv','m2v','m4v','svi','3gp','3g2','mxf','roq','nsv',
 		'flv','f4v','f4p','f4a','f4b')	
 		
-	document_extensions=('doc','docx','odt','pdf','rtf','tex','txt','wks','wps','wpd')
+	document_extensions=('doc','docx','odt','pdf','rtf','tex','txt','wks','wps','wpd','md','PDF')
 
-	compressed_extensions=('7z','arj','deb','pkg','rar','rpm','tar.gz','z','zip')
+	compressed_extensions=('7z','arj','deb','pkg','rar','rpm','tar.gz','tar.xz','z','zip')
 
 	disc_extensions=('bin','dmg','iso','toast','vcd')
 
 	database_extensions=('csv','dat','db','dbf','log','mdb','sav','sql','xml','tar')
 
-	executable_extensions=('apk','bat','bin','cgi','pl','com','exe','gadget','jar','py','wsf')
+	executable_extensions=('apk','bat','bin','cgi','pl','com','exe','gadget','jar','wsf','sh')
 
 	font_extensions=('fnt','fon','otf','ttf')
 
 	image_extensions=('ai','bmp','gif','ico','jpeg','jpg','png','ps','psd','svg','tif','tiff')
 
-	internet_extensions=('asp','aspx','cer','cfm','cgi','pl','css','htm','html','js','jsp','part','php','py','rss','xhtml')
+	internet_extensions=('asp','aspx','cer','cfm','cgi','pl','css','htm','html','js','jsp','part','php','rss','xhtml','ics')
 
 	presentation_extensions=('key','odp','pps','ppt','pptx')
 
-	programming_extensions=('c','cpp','class','cs','h','java','sh','swift','vb','py')
+	programming_extensions=('c','cpp','class','cs','h','java','sh','swift','vb','py','asm','o')
 
 	spreadsheet_extensions=('ods','xlr','xls','xlsx')
 
