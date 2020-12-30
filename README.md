@@ -11,6 +11,24 @@ helpful to sort this problem.
 Tkinter for GUI purpose.
 OS,Shutil for File's operations
 
-# Before Filter
+# Images
+
+## Before Filter
 
 ![](Images/before_filter1.png)
+
+![](Images/before_filter2.png)
+
+## Filter_Files App 
+
+![](Images/first_look.png)
+
+![](Images/select_folder.png)
+
+![](Images/done_msg.png)
+
+## After Filter
+
+![](Images/after_filter.png)
+
+
