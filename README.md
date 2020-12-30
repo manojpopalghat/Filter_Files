@@ -8,5 +8,5 @@ many files and it resides in the download folder, so this software is
 helpful to sort this problem.
 
 ## Used Modules
-Tkinter for GUI purpose
+Tkinter for GUI purpose.
 OS,Shutil for File's operations
