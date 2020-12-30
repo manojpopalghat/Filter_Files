@@ -10,3 +10,7 @@ helpful to sort this problem.
 ## Used Modules
 Tkinter for GUI purpose.
 OS,Shutil for File's operations
+
+# Before Filter
+
+![](Images/before_filter1.png)
